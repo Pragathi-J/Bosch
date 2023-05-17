@@ -1,0 +1,12 @@
+<root>
+	<person>
+		<name>AAAA</name>
+		<age>24</age>
+		<city>Bangalore</city>
+	</person>
+	<person>
+		<name>BBBB</name>
+		<age>34</age>
+		<city>Mysore</city>
+	</person>
+</root>
